@@ -10,7 +10,7 @@ def main():
         'movies':[
             {'Titile':'Terminator','Genre':'Action'},
             {'Title':'Vikings', 'Genre':'love & suspense'}
-    ]
+     ]
 }
 
 # TODO: Step 3 - Add another movie to the data structure
